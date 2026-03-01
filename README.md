@@ -11,7 +11,6 @@
 <p align="center">
   <b>An end-to-end AI-powered pharmaceutical supply chain solution — forecasting drug demand, optimizing inventory, and extracting real-time signals from unstructured text.</b>
   <br/>
-  <i>Digital Business Capability · Hackathon 2025 · Campus Hire</i>
 </p>
 
 ---
