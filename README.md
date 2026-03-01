@@ -481,20 +481,3 @@ inv_df = compute_inventory(test_predictions_df, service_level_z=1.65)
 | Report Generation | python-docx (Word), pptxgenjs (PowerPoint) |
 | Deployment (proposed) | FastAPI, Docker, Kubernetes, Azure ML / AWS SageMaker |
 | Monitoring (proposed) | MLflow, Evidently AI, Apache Kafka |
-
----
-
-## 📄 References
-
-1. Pedregosa et al. (2011). *Scikit-learn: Machine Learning in Python*. JMLR 12, 2825–2830.
-2. Breiman, L. (2001). *Random Forests*. Machine Learning 45, 5–32.
-3. Friedman, J.H. (2001). *Greedy Function Approximation: A Gradient Boosting Machine*. Annals of Statistics 29(5), 1189–1232.
-4. Silver, E.A., Pyke, D.F. & Thomas, D.J. (2017). *Inventory and Production Management in Supply Chains* (4th ed.). CRC Press.
-
----
-
-<p align="center">
-  Made with ❤️ for the Digital Business Capability Hackathon 2025
-  <br/>
-  <i>End-to-end solution: ETL · Machine Learning · NLP · Inventory Optimization · Reporting</i>
-</p>
