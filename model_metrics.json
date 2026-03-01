@@ -1,0 +1,23 @@
+[
+  {
+    "model": "Random Forest",
+    "MAE": 19.69,
+    "RMSE": 39.24,
+    "R2": 0.1823,
+    "MAPE_pct": 29.18
+  },
+  {
+    "model": "Gradient Boosting",
+    "MAE": 35.3,
+    "RMSE": 56.86,
+    "R2": -0.7173,
+    "MAPE_pct": 52.01
+  },
+  {
+    "model": "Ridge (baseline)",
+    "MAE": 19.43,
+    "RMSE": 39.61,
+    "R2": 0.1668,
+    "MAPE_pct": 30.12
+  }
+]
